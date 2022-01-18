@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Pokedex = () => {
+const Pokedex = (props) => {
     return(
         <div>
             Pokedex Page
